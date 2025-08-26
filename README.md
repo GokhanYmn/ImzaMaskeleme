@@ -19,6 +19,7 @@ PDF veya resim dosyalarındaki lacivert/mavi imzaları otomatik olarak maskeleye
     ``bash
     git clone https://github.com/GokhanYmn/ImzaMaskeleme.git
     cd ImzaMaskeleme
+   
 2.Gerekli paketleri yükleyin:
     pip install -r requirements.txt
 
@@ -30,6 +31,4 @@ PDF veya resim dosyalarındaki lacivert/mavi imzaları otomatik olarak maskeleye
 
 5.Tarayıcıdan erişin:
     http://localhost:5000
-Tarayıcıdan erişin:
 
-http://localhost:5000
