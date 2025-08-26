@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+dist/
+build/
+*.spec
+uploads/
+outputs/
+poppler-25.07.0/
